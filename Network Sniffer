@@ -21,3 +21,5 @@ def start_sniffing():
     scapy.sniff(store=False, prn=packet_callback)
     
 start_sniffing()
+
+Kali Script : Python3 Sniffer.py
